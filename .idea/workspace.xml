@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="671dce34-38a6-42cc-9ca5-ff8e70b5bae2" name="Changes" comment="task08">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="671dce34-38a6-42cc-9ca5-ff8e70b5bae2" name="Changes" comment="task10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +42,17 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/suvarno_mitra/Downloads/task07&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Suvarno_Mitra/AWS Serverless/AWS_Sandbox/task09&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Suvarno_Mitra\AWS Serverless\AWS_Sandbox\task09" />
+      <recent name="C:\Suvarno_Mitra\AWS Serverless\AWS_Sandbox\task09\app\lambdas\layers\weather_sdk" />
+      <recent name="C:\Suvarno_Mitra\AWS Serverless\AWS_Sandbox\task09\app\lambdas\layers" />
+      <recent name="C:\Suvarno_Mitra\AWS Serverless\AWS_Sandbox\task09\app\lambdas\api_handler" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,13 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1741702007638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task08">
+      <option name="closed" value="true" />
+      <created>1741772705548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741772705548</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task10">
+      <option name="closed" value="true" />
+      <created>1741775349294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741775349294</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task06" />
     <MESSAGE value="task07" />
     <MESSAGE value="task08" />
-    <option name="LAST_COMMIT_MESSAGE" value="task08" />
+    <MESSAGE value="task10" />
+    <option name="LAST_COMMIT_MESSAGE" value="task10" />
   </component>
 </project>
